@@ -17,8 +17,7 @@ Copper City Makerspace is a community-driven website where people can learn new 
 All pages use the same `styles.css` file. The website uses a mobile-first design, with a single-column layout on smaller screens and a three-column card layout on larger screens.
 
 ## Published Website
-https://github.com/gmshelto565/5-Build-shelton
-
+https://gmshelto565.github.io/5-Build-shelton/
 
 ## AI Use Statement
 
